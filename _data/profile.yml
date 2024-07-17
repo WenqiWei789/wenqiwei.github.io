@@ -1,17 +1,17 @@
-primary_name: "Your Name"
+primary_name: "Wenqi Wei"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Wenqi Wei"
 
-positions:
-- name: Position without logo
-- logo: /assets/images/badges/PKU_red.png
-  name: B.S., Peking University (2021)
+# positions:
+# - name: Position without logo
+# - logo: /assets/images/badges/PKU_red.png
+#   name: B.S., Peking University (2021)
 
-email: "your@email.com"
+email: "wenqiwei@fordham.edu"
 # cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
+gscholar: https://scholar.google.com/citations?user=LBspGEwAAAAJ&hl=en
+# github: your_github_id
+# twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -19,19 +19,26 @@ twitter: your_twitter_id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  I am currently a tenure-track assistant professor at Fordham University. I received my PhD in Computer Science from Georgia Institute of Technology in 2022. I was fortunate to work with Professor Ling Liu in the Distributed Data Intensive Systems Lab (DiSL). After graduation, I spent some short but wonderful time at IBM Research. I received my Bachelor's degree in Electronics and Information Engineering (B.E.) with summa cum laude from Huazhong University of Science and Technology.
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+My research interest includes trustworthy data management and systems, data privacy, responsible data analysis(fairness, accountability, transparency), data mining (for financial service, healthcare, and misinformation), and big data service with particular focus on representation learning, online learning (multi-armed bandits), and foundation models (large language models and latent diffusion). You are welcome to visit my homepage for up-to-date research activities.
+
+I lived in Atlanta, Georgia when I was a teenager, and attended Samuel M. Inman Middle School (now David T. Howard Middle School, home to MLK Jr.) and Henry W. Grady High School (now Midtown High School). I graduated from Inman with Awards for Achieving Highest Average in Science, Outstanding Achievement in ESOL, CRCT (Math & Science), and Honor Roll Certificate.
+
+portrait_url: /assets/images/photos/image2021.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: Georgia Institute of Technology University
+  # logo: /assets/images/badges/PKU_red.png
+  position: PhD. in Computer Science
+  date: Aug. 2017 - May. 2022
+
+- name: Huazhong University of Science and Technology
+  # logo: /assets/images/badges/PKU_red.png
+  position: B.S. in ECE
+  date: Sep. 2013 - Jun. 2027
 
 # experience:
 # - name: Peking University
@@ -40,10 +47,10 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
