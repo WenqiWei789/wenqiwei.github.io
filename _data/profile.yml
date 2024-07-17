@@ -30,7 +30,7 @@ portrait_url: /assets/images/photos/image2021.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Georgia Institute of Technology University
+- name: Georgia Institute of Technology
   # logo: /assets/images/badges/PKU_red.png
   position: PhD. in Computer Science
   date: Aug. 2017 - May. 2022
